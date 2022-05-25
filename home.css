@@ -41,6 +41,26 @@
 
 
 
+.navigation-links-root-class-name19 {
+  top: 126px;
+  left: -2px;
+  width: 1900px;
+  position: absolute;
+}
+.navigation-links-root-class-name16 {
+  top: 126px;
+  left: -2px;
+  width: 1900px;
+  position: absolute;
+}
+
+.navigation-links-root-class-name18 {
+  top: 126px;
+  left: -2px;
+  width: 1900px;
+  position: absolute;
+}
+
 @media(max-width: 767px) {
   .navigation-links-nav {
     align-items: flex-start;
@@ -103,6 +123,9 @@
   margin-bottom: var(--dl-space-space-oneandhalfunits);
   background-color: var(--dl-color-gray-900);
 }
+.home-nav {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+}
 .home-accordion-header {
   display: flex;
   align-items: center;
@@ -129,6 +152,13 @@
 .home-text5 {
   align-self: center;
   text-align: center;
+}
+.home-text6 {
+  top: 334px;
+  left: 829px;
+  margin: auto;
+  position: absolute;
+  font-size: 24px;
 }
 @media(max-width: 991px) {
   .home-nav1 {

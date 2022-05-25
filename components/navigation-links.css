@@ -41,6 +41,26 @@
 
 
 
+.navigation-links-root-class-name19 {
+  top: 126px;
+  left: -2px;
+  width: 1900px;
+  position: absolute;
+}
+.navigation-links-root-class-name16 {
+  top: 126px;
+  left: -2px;
+  width: 1900px;
+  position: absolute;
+}
+
+.navigation-links-root-class-name18 {
+  top: 126px;
+  left: -2px;
+  width: 1900px;
+  position: absolute;
+}
+
 @media(max-width: 767px) {
   .navigation-links-nav {
     align-items: flex-start;
