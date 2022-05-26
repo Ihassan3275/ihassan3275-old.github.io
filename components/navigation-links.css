@@ -41,24 +41,23 @@
 
 
 
-.navigation-links-root-class-name19 {
-  top: 126px;
-  left: -2px;
-  width: 1900px;
-  position: absolute;
-}
 .navigation-links-root-class-name16 {
-  top: 126px;
-  left: -2px;
   width: 1900px;
-  position: absolute;
+  align-self: center;
+  margin-top: 100px;
+  margin-bottom: 700px;
 }
 
 .navigation-links-root-class-name18 {
-  top: 126px;
-  left: -2px;
   width: 1900px;
-  position: absolute;
+  margin-top: 100px;
+  margin-bottom: 700px;
+}
+.navigation-links-root-class-name19 {
+  width: 1900px;
+  align-self: center;
+  margin-top: 100px;
+  margin-bottom: 700px;
 }
 
 @media(max-width: 767px) {
@@ -76,5 +75,9 @@
   .navigation-links-navlink2 {
     margin-left: 0;
     margin-bottom: var(--dl-space-space-unit);
+  }
+  .navigation-links-root-class-name18 {
+    position: static;
+    align-self: center;
   }
 }
